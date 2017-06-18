@@ -1,0 +1,9 @@
+D:\workspace\labs\lab1\CIS199-Lab1\CIS199-Lab1\bin\Debug\CIS199-Lab1.exe.config
+D:\workspace\labs\lab1\CIS199-Lab1\CIS199-Lab1\bin\Debug\CIS199-Lab1.exe
+D:\workspace\labs\lab1\CIS199-Lab1\CIS199-Lab1\bin\Debug\CIS199-Lab1.pdb
+D:\workspace\labs\lab1\CIS199-Lab1\CIS199-Lab1\obj\Debug\CIS199-Lab1.csprojResolveAssemblyReference.cache
+D:\workspace\labs\lab1\CIS199-Lab1\CIS199-Lab1\obj\Debug\CIS199_Lab1.Form1.resources
+D:\workspace\labs\lab1\CIS199-Lab1\CIS199-Lab1\obj\Debug\CIS199_Lab1.Properties.Resources.resources
+D:\workspace\labs\lab1\CIS199-Lab1\CIS199-Lab1\obj\Debug\CIS199-Lab1.csproj.GenerateResource.Cache
+D:\workspace\labs\lab1\CIS199-Lab1\CIS199-Lab1\obj\Debug\CIS199-Lab1.exe
+D:\workspace\labs\lab1\CIS199-Lab1\CIS199-Lab1\obj\Debug\CIS199-Lab1.pdb
