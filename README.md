@@ -1,13 +1,13 @@
 # uofl-cis-collection
 Collection of code done for CIS degree 
 
-#School
+# School
 University of Louisville
 
-#Degree Program
+# Degree Program
 Computer Information Systems
 
-#Courses
+# Courses
 CIS 199 - Intro into Programming
 
 ---------------------
