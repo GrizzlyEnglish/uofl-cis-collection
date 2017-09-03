@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{CBAD51E0-F1AF-4C61-B966-CDFDA378F4C3}|Default">
+  <MonoDevelop.Ide.ItemProperties.CIS200Program0 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="CIS200Program0/Letter.cs">
+    <Files>
+      <File FileName="CIS200Program0/Program.cs" Line="23" Column="4" />
+      <File FileName="CIS200Program0/Address.cs" Line="51" Column="77" />
+      <File FileName="CIS200Program0/Parcel.cs" Line="22" Column="71" />
+      <File FileName="CIS200Program0/Letter.cs" Line="7" Column="40" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
