@@ -38,14 +38,14 @@ namespace CIS200Program0
 			Letter letterTwo = new Letter(randoAK, randoOR, 2500);
 			parcelList.Add(letterTwo);
 
-			Letter letterThree = new Letter(uOfL, randoOR, 234.23);
+			Letter letterThree = new Letter(uOfL, randoOR, 234.23m);
 			parcelList.Add(letterThree);
 
 			//Output the contents of each parcel
 			parcelList.ForEach(p =>
 			{
-				Console.WriteLine(p.ToString());
-				Console.WriteLine("-------------");
+                Console.WriteLine("-------------");
+                Console.WriteLine(p.ToString());
 			});
 		}
 	}

@@ -1,4 +1,14 @@
-﻿using System;
+﻿/*
+ * Program 0
+ * Grading ID: D4199
+ * 
+ * A parcel is an abstract
+ * shipping object taking an origin and a destination.
+ * You must override CaclCost to be determined by the shipper
+ * 
+ */
+
+using System;
 namespace CIS200Program0
 {
 	//Abstract Parcel is anything that is shippped from one address to another
@@ -22,8 +32,9 @@ namespace CIS200Program0
 		//Override the to string and print the origin, destionation and cost
 		public override string ToString()
 		{
-			return string.Format("Origin: \n{0} \n\nDestintion: \n{1} \nCosts: {2}", OriginAddress.ToString(),
-			                     DestinationAddress.ToString(), CalcCost().ToString("C"));
+			return string.Format("Origin: "+ Environment.NewLine +
+                "{0} \n\nDestintion: " + Environment.NewLine + "{1} " + Environment.NewLine + "Costs: {2}", 
+                OriginAddress.ToString(), DestinationAddress.ToString(), CalcCost().ToString("C"));
 		}
 
 	}

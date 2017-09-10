@@ -1,11 +1,21 @@
-﻿using System;
+﻿/*
+ * Program 0
+ * Grading ID: D4199
+ * 
+ * A letter is a special parcel
+ * that has a fixed cost to ship
+ * based on the shipper.
+ * 
+ */
+
+using System;
 namespace CIS200Program0
 {
 	//Letter is a special parcel
 	public class Letter : Parcel
 	{
 		//Fix cost determined by the shippers
-		decimal _fixedCost;
+		private decimal _fixedCost;
 
 		public Letter(Address origin, Address destination, decimal fixedCost) 
 			: base(origin,destination)
@@ -14,7 +24,7 @@ namespace CIS200Program0
 			_fixedCost = fixedCost > 0 ? fixedCost : 0;
 		}
 
-		//Letters have a fixed cost just return it
+		//Letters have a fixed cost just return it for now
 		public override decimal CalcCost()
 		{
 			return _fixedCost;			

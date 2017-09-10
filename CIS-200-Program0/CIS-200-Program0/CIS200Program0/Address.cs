@@ -1,4 +1,14 @@
-﻿using System;
+﻿/*
+ * Program 0
+ * Grading ID: D4199
+ * 
+ * Addresses are standard.
+ * Address Line2 is optional.
+ * Zip code must be between 0 - 99999
+ * 
+ */
+
+using System;
 namespace CIS200Program0
 {
 	public class Address
@@ -41,9 +51,12 @@ namespace CIS200Program0
 				return _zipCode;
 			} 
 			set {
-				if (value < 99999) {
-					_zipCode = value;
-				}
+                if (value < 99999)
+                {
+                    _zipCode = value;
+                }
+                //For now if out of range, lets just throw an error
+                else throw new ArgumentOutOfRangeException();
 			} 
 		}
 
@@ -51,8 +64,8 @@ namespace CIS200Program0
 		//Override toString and output the contents of the addresses and the costs
 		public override string ToString()
 		{
-			string str = Name + "\n" + Address1 + "\n";
-			if(Address2 != String.Empty) str += Address2 + "\n";
+			string str = Name + Environment.NewLine + Address1 + Environment.NewLine;
+			if(Address2 != String.Empty) str += Address2 + Environment.NewLine;
 			str += City + " " + State + ", " + Zip.ToString("D5");
 			return str;
 		}
