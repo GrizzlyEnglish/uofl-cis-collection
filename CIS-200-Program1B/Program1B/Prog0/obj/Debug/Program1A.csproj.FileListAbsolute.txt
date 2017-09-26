@@ -1,0 +1,14 @@
+D:\Workspace\uofl-cis-collection\CIS-200-Program1A\Program1A\Prog0\bin\Debug\Program1A.exe.config
+D:\Workspace\uofl-cis-collection\CIS-200-Program1A\Program1A\Prog0\bin\Debug\Program1A.exe
+D:\Workspace\uofl-cis-collection\CIS-200-Program1A\Program1A\Prog0\bin\Debug\Program1A.pdb
+D:\Workspace\uofl-cis-collection\CIS-200-Program1A\Program1A\Prog0\obj\Debug\Program1A.csprojResolveAssemblyReference.cache
+D:\Workspace\uofl-cis-collection\CIS-200-Program1A\Program1A\Prog0\obj\Debug\Program1A.csproj.CoreCompileInputs.cache
+D:\Workspace\uofl-cis-collection\CIS-200-Program1A\Program1A\Prog0\obj\Debug\Program1A.exe
+D:\Workspace\uofl-cis-collection\CIS-200-Program1A\Program1A\Prog0\obj\Debug\Program1A.pdb
+D:\Workspace\uofl-cis-collection\CIS-200-Program1B\Program1B\Prog0\bin\Debug\Program1A.exe.config
+D:\Workspace\uofl-cis-collection\CIS-200-Program1B\Program1B\Prog0\bin\Debug\Program1A.exe
+D:\Workspace\uofl-cis-collection\CIS-200-Program1B\Program1B\Prog0\bin\Debug\Program1A.pdb
+D:\Workspace\uofl-cis-collection\CIS-200-Program1B\Program1B\Prog0\obj\Debug\Program1A.csproj.CoreCompileInputs.cache
+D:\Workspace\uofl-cis-collection\CIS-200-Program1B\Program1B\Prog0\obj\Debug\Program1A.exe
+D:\Workspace\uofl-cis-collection\CIS-200-Program1B\Program1B\Prog0\obj\Debug\Program1A.pdb
+D:\Workspace\uofl-cis-collection\CIS-200-Program1B\Program1B\Prog0\obj\Debug\Program1A.csprojResolveAssemblyReference.cache
