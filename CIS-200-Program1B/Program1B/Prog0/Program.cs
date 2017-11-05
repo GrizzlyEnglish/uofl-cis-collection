@@ -101,6 +101,12 @@ namespace Program1A
                                           select airpackage;
             logParcels(heavyAirPackageByWeight.ToList());
 
+
+            var airpackages = from airp in parcels where airp is AirPackage select airp as AirPackage;
+            var here = from airpackage in airpackages where airpackage.isHeavy() orderby airpackage.Weight descending select airpackage;
+
+            logParcels(here.ToList());
+
             Console.ReadLine();
         }
 
