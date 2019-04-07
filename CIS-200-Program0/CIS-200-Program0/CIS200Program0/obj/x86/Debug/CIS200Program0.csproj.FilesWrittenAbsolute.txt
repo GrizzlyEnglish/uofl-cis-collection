@@ -1,6 +1,0 @@
-/Korra/Workspace/CIS-200/Program0/CIS200Program0/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
-/Korra/Workspace/CIS-200/Program0/CIS200Program0/bin/Debug/CIS200Program0.exe.mdb
-/Korra/Workspace/CIS-200/Program0/CIS200Program0/bin/Debug/CIS200Program0.exe
-/Korra/Workspace/CIS-200/Program0/CIS200Program0/obj/x86/Debug/CIS200Program0.exe
-/Korra/Workspace/CIS-200/Program0/CIS200Program0/obj/x86/Debug/CIS200Program0.exe.mdb
-/Korra/Workspace/CIS-200/Program0/CIS200Program0/obj/x86/Debug/.NETFramework,Version=v4.5.2.AssemblyAttribute.cs

@@ -1,6 +1,0 @@
-D:\workspace\labs\CIS-199-Lab6\Lab6\Lab6\bin\Debug\Lab6.exe.config
-D:\workspace\labs\CIS-199-Lab6\Lab6\Lab6\bin\Debug\Lab6.exe
-D:\workspace\labs\CIS-199-Lab6\Lab6\Lab6\bin\Debug\Lab6.pdb
-D:\workspace\labs\CIS-199-Lab6\Lab6\Lab6\obj\Debug\Lab6.csprojResolveAssemblyReference.cache
-D:\workspace\labs\CIS-199-Lab6\Lab6\Lab6\obj\Debug\Lab6.exe
-D:\workspace\labs\CIS-199-Lab6\Lab6\Lab6\obj\Debug\Lab6.pdb

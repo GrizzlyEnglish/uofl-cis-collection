@@ -1,3 +1,0 @@
-/Korra/Workspace/CIS-200/Program0/CIS200Program0/obj/x86/Release/.NETFramework,Version=v4.5.2.AssemblyAttribute.cs
-/Korra/Workspace/CIS-200/Program0/CIS200Program0/bin/Release/CIS200Program0.exe
-/Korra/Workspace/CIS-200/Program0/CIS200Program0/obj/x86/Release/CIS200Program0.exe

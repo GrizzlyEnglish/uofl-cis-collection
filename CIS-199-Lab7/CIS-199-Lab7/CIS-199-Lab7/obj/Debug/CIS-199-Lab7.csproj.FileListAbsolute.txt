@@ -1,9 +1,0 @@
-D:\workspace\labs\CIS-199-Lab7\CIS-199-Lab7\CIS-199-Lab7\bin\Debug\CIS-199-Lab7.exe.config
-D:\workspace\labs\CIS-199-Lab7\CIS-199-Lab7\CIS-199-Lab7\bin\Debug\CIS-199-Lab7.exe
-D:\workspace\labs\CIS-199-Lab7\CIS-199-Lab7\CIS-199-Lab7\bin\Debug\CIS-199-Lab7.pdb
-D:\workspace\labs\CIS-199-Lab7\CIS-199-Lab7\CIS-199-Lab7\obj\Debug\CIS-199-Lab7.csprojResolveAssemblyReference.cache
-D:\workspace\labs\CIS-199-Lab7\CIS-199-Lab7\CIS-199-Lab7\obj\Debug\CIS_199_Lab7.Properties.Resources.resources
-D:\workspace\labs\CIS-199-Lab7\CIS-199-Lab7\CIS-199-Lab7\obj\Debug\CIS-199-Lab7.csproj.GenerateResource.Cache
-D:\workspace\labs\CIS-199-Lab7\CIS-199-Lab7\CIS-199-Lab7\obj\Debug\CIS-199-Lab7.exe
-D:\workspace\labs\CIS-199-Lab7\CIS-199-Lab7\CIS-199-Lab7\obj\Debug\CIS-199-Lab7.pdb
-D:\workspace\labs\CIS-199-Lab7\CIS-199-Lab7\CIS-199-Lab7\obj\Debug\CIS_199_Lab7.Calculator.resources

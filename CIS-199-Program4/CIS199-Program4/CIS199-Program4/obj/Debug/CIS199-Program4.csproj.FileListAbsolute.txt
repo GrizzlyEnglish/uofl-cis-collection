@@ -1,9 +1,0 @@
-D:\workspace\labs\CIS-199-Program4\CIS199-Program4\CIS199-Program4\bin\Debug\CIS199-Program4.exe.config
-D:\workspace\labs\CIS-199-Program4\CIS199-Program4\CIS199-Program4\bin\Debug\CIS199-Program4.exe
-D:\workspace\labs\CIS-199-Program4\CIS199-Program4\CIS199-Program4\bin\Debug\CIS199-Program4.pdb
-D:\workspace\labs\CIS-199-Program4\CIS199-Program4\CIS199-Program4\obj\Debug\CIS199-Program4.csprojResolveAssemblyReference.cache
-D:\workspace\labs\CIS-199-Program4\CIS199-Program4\CIS199-Program4\obj\Debug\CIS199_Program4.PackageForm.resources
-D:\workspace\labs\CIS-199-Program4\CIS199-Program4\CIS199-Program4\obj\Debug\CIS199_Program4.Properties.Resources.resources
-D:\workspace\labs\CIS-199-Program4\CIS199-Program4\CIS199-Program4\obj\Debug\CIS199-Program4.csproj.GenerateResource.Cache
-D:\workspace\labs\CIS-199-Program4\CIS199-Program4\CIS199-Program4\obj\Debug\CIS199-Program4.exe
-D:\workspace\labs\CIS-199-Program4\CIS199-Program4\CIS199-Program4\obj\Debug\CIS199-Program4.pdb

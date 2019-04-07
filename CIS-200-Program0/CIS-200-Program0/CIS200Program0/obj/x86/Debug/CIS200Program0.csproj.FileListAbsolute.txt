@@ -1,6 +1,0 @@
-C:\Users\formy\Documents\Workspace\uofl-cis-collection\CIS-200-Program0\CIS-200-Program0\CIS200Program0\bin\Debug\CIS200Program0.exe
-C:\Users\formy\Documents\Workspace\uofl-cis-collection\CIS-200-Program0\CIS-200-Program0\CIS200Program0\bin\Debug\CIS200Program0.pdb
-C:\Users\formy\Documents\Workspace\uofl-cis-collection\CIS-200-Program0\CIS-200-Program0\CIS200Program0\obj\x86\Debug\CIS200Program0.csprojResolveAssemblyReference.cache
-C:\Users\formy\Documents\Workspace\uofl-cis-collection\CIS-200-Program0\CIS-200-Program0\CIS200Program0\obj\x86\Debug\CIS200Program0.csproj.CoreCompileInputs.cache
-C:\Users\formy\Documents\Workspace\uofl-cis-collection\CIS-200-Program0\CIS-200-Program0\CIS200Program0\obj\x86\Debug\CIS200Program0.exe
-C:\Users\formy\Documents\Workspace\uofl-cis-collection\CIS-200-Program0\CIS-200-Program0\CIS200Program0\obj\x86\Debug\CIS200Program0.pdb
