@@ -61,8 +61,11 @@ Ship packages back and forth between locations. Determine cost based on size of 
 ## Lab One
 This lab explores the use of LINQ to query an array of objects.
 
-## Program 1 - 4
+## Program 1 - 3
 A simple parcel shipping application. Each program builds on the last. Implementing classes to doing LINQ.
+
+## Program 4
+Also part of the parcel shipping application; but was a bonus comparator introduction.
 
 ---------------------
 This repository will serve as a location for all the code made during my time at the Univeristy of Louisville. I will admit, I had prior
