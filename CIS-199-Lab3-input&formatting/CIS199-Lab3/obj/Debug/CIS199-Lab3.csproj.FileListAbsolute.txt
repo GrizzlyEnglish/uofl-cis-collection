@@ -1,0 +1,9 @@
+C:\Users\r0engl01\Desktop\Lab3\CIS199-Lab3\CIS199-Lab3\bin\Debug\CIS199-Lab3.exe.config
+C:\Users\r0engl01\Desktop\Lab3\CIS199-Lab3\CIS199-Lab3\bin\Debug\CIS199-Lab3.exe
+C:\Users\r0engl01\Desktop\Lab3\CIS199-Lab3\CIS199-Lab3\bin\Debug\CIS199-Lab3.pdb
+C:\Users\r0engl01\Desktop\Lab3\CIS199-Lab3\CIS199-Lab3\obj\Debug\CIS199-Lab3.csprojResolveAssemblyReference.cache
+C:\Users\r0engl01\Desktop\Lab3\CIS199-Lab3\CIS199-Lab3\obj\Debug\CIS199_Lab3.Form1.resources
+C:\Users\r0engl01\Desktop\Lab3\CIS199-Lab3\CIS199-Lab3\obj\Debug\CIS199_Lab3.Properties.Resources.resources
+C:\Users\r0engl01\Desktop\Lab3\CIS199-Lab3\CIS199-Lab3\obj\Debug\CIS199-Lab3.csproj.GenerateResource.Cache
+C:\Users\r0engl01\Desktop\Lab3\CIS199-Lab3\CIS199-Lab3\obj\Debug\CIS199-Lab3.exe
+C:\Users\r0engl01\Desktop\Lab3\CIS199-Lab3\CIS199-Lab3\obj\Debug\CIS199-Lab3.pdb

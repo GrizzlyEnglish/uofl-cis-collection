@@ -1,0 +1,9 @@
+D:\workspace\labs\CIS-199-Lab9\CIS-199-Lab9\CIS-199-Lab9\bin\Debug\CIS-199-Lab9.exe.config
+D:\workspace\labs\CIS-199-Lab9\CIS-199-Lab9\CIS-199-Lab9\bin\Debug\CIS-199-Lab9.exe
+D:\workspace\labs\CIS-199-Lab9\CIS-199-Lab9\CIS-199-Lab9\bin\Debug\CIS-199-Lab9.pdb
+D:\workspace\labs\CIS-199-Lab9\CIS-199-Lab9\CIS-199-Lab9\obj\Debug\CIS-199-Lab9.csprojResolveAssemblyReference.cache
+D:\workspace\labs\CIS-199-Lab9\CIS-199-Lab9\CIS-199-Lab9\obj\Debug\CIS_199_Lab9.Form1.resources
+D:\workspace\labs\CIS-199-Lab9\CIS-199-Lab9\CIS-199-Lab9\obj\Debug\CIS_199_Lab9.Properties.Resources.resources
+D:\workspace\labs\CIS-199-Lab9\CIS-199-Lab9\CIS-199-Lab9\obj\Debug\CIS-199-Lab9.csproj.GenerateResource.Cache
+D:\workspace\labs\CIS-199-Lab9\CIS-199-Lab9\CIS-199-Lab9\obj\Debug\CIS-199-Lab9.exe
+D:\workspace\labs\CIS-199-Lab9\CIS-199-Lab9\CIS-199-Lab9\obj\Debug\CIS-199-Lab9.pdb
